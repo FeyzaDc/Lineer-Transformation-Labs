@@ -3,3 +3,6 @@ Lab studies for Linear Transformations of Linear Algebra course, which is one of
 * Definition and examples
 * Rank of a matrix
 * Homogeneus systems
+* Coordinates and Isomorphism
+* Coordinate Vector
+* Matrix of Linear Transformation
